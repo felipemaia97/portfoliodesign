@@ -4,9 +4,9 @@
 # ============================================================
 backend:
   name: github
-  repo: SEU-USUARIO/SEU-REPOSITORIO
+  repo: felipemaia97/portfoliodesign
   branch: main
-  base_url: https://SEU-WORKER.workers.dev
+  base_url: https://sveltia-auth-felipe.felipemaia2100.workers.dev
 
 media_folder: fotos
 public_folder: /fotos
