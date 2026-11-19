@@ -45,7 +45,7 @@ collections:
                 widget: list
                 fields:
                   - { label: Título, name: titulo, widget: string }
-                  - { label: Tags (ex.: Logo · Manual), name: tags, widget: string }
+                  - { label: "Tags (ex.: Logo · Manual)", name: tags, widget: string }
                   - { label: Link do projeto no Behance, name: link, widget: string }
                   - { label: Capa (imagem do preview), name: capa, widget: image, required: false }
           - label: Contatos
