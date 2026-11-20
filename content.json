@@ -10,11 +10,26 @@
       "Trabalho com pequenos negócios e empresas que querem se comunicar com clareza e personalidade."
     ],
     "habilidades": [
-      { "nome": "Canva", "nivel": 90 },
-      { "nome": "Figma", "nivel": 75 },
-      { "nome": "Photoshop", "nivel": 85 },
-      { "nome": "Illustrator", "nivel": 80 },
-      { "nome": "Affinity", "nivel": 60 }
+      {
+        "nome": "Canva",
+        "nivel": 90
+      },
+      {
+        "nome": "Figma",
+        "nivel": 80
+      },
+      {
+        "nome": "Photoshop",
+        "nivel": 85
+      },
+      {
+        "nome": "Illustrator",
+        "nivel": 80
+      },
+      {
+        "nome": "Affinity",
+        "nivel": 60
+      }
     ]
   },
   "categorias": [
@@ -22,35 +37,67 @@
       "nome": "Identidade Visual",
       "descricao": "Logos, paletas e manuais de marca.",
       "projetos": [
-        { "titulo": "Nome do projeto", "tags": "Logo · Manual", "link": "#", "capa": "" },
-        { "titulo": "Nome do projeto", "tags": "Paleta", "link": "#", "capa": "" }
+        {
+          "titulo": "Nome do projeto",
+          "tags": "Logo · Manual",
+          "link": "#",
+          "capa": ""
+        },
+        {
+          "titulo": "Nome do projeto",
+          "tags": "Paleta",
+          "link": "#",
+          "capa": ""
+        }
       ]
     },
     {
       "nome": "Impressos",
       "descricao": "Folders, flyers, cartões e materiais gráficos.",
       "projetos": [
-        { "titulo": "Nome do projeto", "tags": "Folder", "link": "#", "capa": "" }
+        {
+          "titulo": "Nome do projeto",
+          "tags": "Folder",
+          "link": "#",
+          "capa": ""
+        }
       ]
     },
     {
       "nome": "Cardápios",
       "descricao": "Cardápios impressos e digitais.",
       "projetos": [
-        { "titulo": "Nome do projeto", "tags": "Cardápio", "link": "#", "capa": "" }
+        {
+          "titulo": "Nome do projeto",
+          "tags": "Cardápio",
+          "link": "#",
+          "capa": ""
+        }
       ]
     },
     {
       "nome": "Social Media",
       "descricao": "Posts, carrosséis e campanhas.",
       "projetos": [
-        { "titulo": "Nome do projeto", "tags": "Instagram", "link": "#", "capa": "" }
+        {
+          "titulo": "Nome do projeto",
+          "tags": "Instagram",
+          "link": "#",
+          "capa": ""
+        }
       ]
     },
     {
       "nome": "Outros",
       "descricao": "Outros trabalhos.",
-      "projetos": []
+      "projetos": [
+        {
+          "titulo": "#",
+          "tags": "#",
+          "link": "#",
+          "capa": ""
+        }
+      ]
     }
   ],
   "contatos": {
